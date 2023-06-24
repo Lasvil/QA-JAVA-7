@@ -5,7 +5,7 @@ import ru.netology.stats.StatsService;
 public class StatsServiceTest {
     int[] arr = {
             8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18
-    };git st
+    };
 
     @Test
     public void amount() {
